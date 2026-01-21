@@ -1,6 +1,6 @@
 package com.example.buoi1
 import org.junit.Test
-class bienChuoi {
+class Bai1_bienChuoi {
         @Test
         fun main() {
             val age = "5"

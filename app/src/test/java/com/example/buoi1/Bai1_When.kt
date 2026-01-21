@@ -2,7 +2,7 @@ package com.example.buoi1
 
 import org.junit.Test
 
-class When {
+class Bai1_When {
 
     @Test
     fun viDu1() {

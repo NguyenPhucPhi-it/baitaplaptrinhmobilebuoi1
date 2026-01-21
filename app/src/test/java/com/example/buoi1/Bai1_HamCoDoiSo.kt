@@ -2,7 +2,7 @@ package com.example.buoi1
 
 import org.junit.Test
 
-class HamCoDoiSo {
+class Bai1_HamCoDoiSo {
 
 
     fun printBorder(border: String, timesToRepeat: Int) {

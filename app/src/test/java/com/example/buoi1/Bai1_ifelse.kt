@@ -2,7 +2,7 @@ package com.example.buoi1
 
 import org.junit.Test
 
-class ifelse {
+class Bai1_ifelse {
 
     @Test
     fun main() {

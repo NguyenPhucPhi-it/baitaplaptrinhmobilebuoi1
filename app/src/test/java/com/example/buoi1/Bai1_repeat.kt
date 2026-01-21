@@ -2,7 +2,7 @@ package com.example.buoi1
 
 import org.junit.Test
 
-class repeat {
+class Bai1_repeat {
 
     fun printBorder() {
         repeat(23) {

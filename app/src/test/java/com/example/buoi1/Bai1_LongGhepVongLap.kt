@@ -2,7 +2,7 @@ package com.example.buoi1
 
 import org.junit.Test
 
-class LongGhepVongLap {
+class Bai1_LongGhepVongLap {
 
     fun printCakeBottom(age: Int, layers: Int) {
         repeat(layers) {

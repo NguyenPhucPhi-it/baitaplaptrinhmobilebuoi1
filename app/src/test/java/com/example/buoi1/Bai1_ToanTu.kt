@@ -2,7 +2,7 @@ package com.example.buoi1
 
 import org.junit.Test
 
-class ToanTu {
+class Bai1_ToanTu {
 
     @Test
     fun main() {
