@@ -15,8 +15,6 @@ class Bai3_Let {
         }
 
         println()
-
-        // let với nullable
         val nullableName: String? = "Android"
         nullableName?.let {
             println("Tên: $it")
